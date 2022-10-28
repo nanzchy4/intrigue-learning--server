@@ -1,0 +1,58 @@
+[
+    {
+        "course_id": "1",
+        "courseName" : "Python",
+        "couseInstructor": "Dravid Jonas",
+        "ratings" : "4",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
+        "about":"This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly.  It also provides hands-on coding exercises using commonly used data structures, writing custom functions, and reading and writing to files. This course may be more robust than some other introductory python courses, as it delves deeper into certain essential programming topics." ,
+        "duration" : "100+hr"
+    },
+    {
+        "course_id": "2",
+        "courseName" : "Java",
+        "couseInstructor": "Ahsan Roy",
+        "ratings" : "4.5",
+        "img" : "https://softwareengineeringdaily.com/wp-content/uploads/2020/01/Java-Debugging-Tips-881x441.jpg",
+        "about":"This Course is the first of a series of courses that make up the Core Java Specialization. The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments. This course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops. The audience for this course: - Anyone interested in learning Java - Programmers - Technical Managers - Application Developers Prerequisites: To be successful with this course, you should understand the fundamentals of software development in either a procedural or object-oriented language.",
+        "duration" : "100+hr"
+    },
+    {
+        "course_id": "3",
+        "courseName" : "PHP",
+        "couseInstructor": "Hamza Khalid",
+        "ratings" : "5",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD782S4cWMIFpscSqMM_aFUzT8L-7v75q9IQ&usqp=CAU",
+        "about" :"In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP.",
+        "duration" : "100+hr"
+    },
+    {
+        "course_id": "4",
+        "courseName" : "JavaScript",
+        "couseInstructor": "Mark Spensor",
+        "ratings" : "4.5",
+        "img" : "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "about" :"The JavaScript Specialist course focuses on the fundamental concepts of the JavaScript language. This course will empower you with the skills to design client-side, platform-independent solutions that greatly increase the value of your Web site by providing interactivity and interest. You will learn how to use JavaScript to communicate with users, modify the Document Object Model (DOM), control program flow, validate forms, animate images, create cookies, change HTML on the fly, and communicate with databases.",  
+        "duration" : "100+hr"
+    },
+    {
+        "course_id": "5",
+        "courseName" : "C++",
+        "couseInstructor": "Jack Kallis",
+        "ratings" : "3.5",
+        "img" : "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "about" :"This course introduces the student to object-oriented programming through a study of the concepts of program specification and design, algorithm development, and coding and testing using a modern software development environment. Students learn how to write programs in an object-oriented high level programming language. Topics covered include fundamentals of algorithms, flowcharts, problem solving, programming concepts, classes and methods, control structures, arrays, and strings. ",  
+        "duration" : "100+hr"
+    },
+    {
+        "course_id": "6",
+        "courseName" : "C#",
+        "couseInstructor": "Jack Kallis",
+        "ratings" : "4",
+        "img" : "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "about" :"C# is a powerful backend coding language used for Microsoft web and desktop applications. C# is a C-style language, so you can take C# and learn other languages such as Java, C and C++. This course will get you started with C# and the language styles including object-oriented programming (OOP).",
+        "duration" : "100+hr"
+  
+
+    }
+]
